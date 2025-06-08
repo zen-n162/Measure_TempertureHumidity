@@ -1,0 +1,2 @@
++ printenv
++ export DISPLAY=:0.0
