@@ -24,7 +24,7 @@ csv_file_name = '/home/zen/Documents/Geek/TemperatureHumidity/temp_humi.csv'
 api_csv_file_name = '/home/zen/Documents/Geek/TemperatureHumidity/temp_humi_api.csv'
 
 #slack proj-temperature_humidity
-slack = slackweb.Slack(url='https://hooks.slack.com/services/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')
+slack = slackweb.Slack(url='https://hooks.slack.com/services/#####/####/#####')
 
 start_times=0 #from 0 min
 get_times=20 #every 20 min
