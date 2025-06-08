@@ -7,7 +7,7 @@
 - そこで3Dプリンターを使用する大学内の部屋の空調を、土日祝日でも24時間つけられるように申請をしたい。そのために、気温の上昇に伴い、夏にどのくらい室温と湿度が上がるかを示すためのデータを取得しようと考えた。それを根拠に、空調申請をする。
 
 ## 概要
-[新GeekDojoと旧GeekDojoの 温湿度計測.pdf](https://github.com/user-attachments/files/20643051/GeekDojo.GeekDojo.pdf)
+![新GeekDojoと旧GeekDojoの 温湿度計測.pdf](https://github.com/user-attachments/files/20643051/GeekDojo.GeekDojo.pdf)
 - 時間毎に、気温と湿度センサで室温と湿度を取得する。
 - それをcsvファイルに書き出し、グラフを自動作成する。
 - また、同時刻の同土地の環境省から出ている気温、湿度データを取得して、グラフを作成する。
