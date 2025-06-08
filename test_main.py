@@ -33,7 +33,7 @@ csv_file_name = '/home/zen/Documents/Geek/TemperatureHumidity/test_temp_humi.csv
 api_csv_file_name = '/home/zen/Documents/Geek/TemperatureHumidity/test_tepm_humi_api.csv'
 
 #slack proj-temperature_humidity
-slack = slackweb.Slack(url='https://hooks.slack.com/services/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')
+slack = slackweb.Slack(url='https://hooks.slack.com/services/####/####/#####')
 
 count=0
 dht_device = adafruit_dht.DHT11(PIN)
